@@ -14,6 +14,12 @@ myVar <- 5
 myPythonVar = int(3)
 print(myPythonVar)
 ```
+## Task lists
+These helps track progress
+- [X] Get an account on Github
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ### Subsub
 #### Subsubsub
 ##### Subsubsubsub
